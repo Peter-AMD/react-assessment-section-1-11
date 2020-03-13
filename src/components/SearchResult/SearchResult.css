@@ -1,0 +1,12 @@
+.searchresult-wrapper {
+  display: flex;
+  margin-bottom: 30px;
+  border: gray solid 2px;
+  padding: 10px;
+}
+
+.searchresult-wrapper .image-class {
+  max-width: 300px;
+  margin-right: 30px;
+
+}
